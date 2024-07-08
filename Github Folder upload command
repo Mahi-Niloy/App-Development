@@ -1,0 +1,6 @@
+//github folder upload command
+git init
+git add
+git commit -m "commit message"
+git remote add origin <GitHub link>
+git push -u origin master
